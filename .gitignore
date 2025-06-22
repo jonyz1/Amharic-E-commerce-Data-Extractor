@@ -4,7 +4,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+scraping_session.session
+photos/
 # Distribution / packaging
 .Python
 build/
